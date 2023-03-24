@@ -70,7 +70,7 @@ THEN the saved events persist
 https://github.com/shababrc/Work-Day-Scheduler  
 
 ## Link to Deployed Site:
-
+https://shababrc.github.io/Work-Day-Scheduler/
 
 
 ## Credits
